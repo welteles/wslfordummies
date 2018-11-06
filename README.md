@@ -1,4 +1,4 @@
-# WSL for dummies
+# Microsoft WSL for dummies
 The complete guide to install Microsoft WSL.
 * Open Microsoft Store and install Subsystem (Ubuntu, Debian...)
 * Open PowerShell as Administrator and run: 
